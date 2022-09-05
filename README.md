@@ -1,4 +1,4 @@
-# Hackintosh-Ideapad-130-14IKB-BigSur
+# Hackintosh-Lenovo-Ideapad-130-14IKB-BigSur
 
 <img src="./SS.png" alt="BigSur" />
 
